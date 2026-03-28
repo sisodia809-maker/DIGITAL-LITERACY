@@ -73,7 +73,7 @@ Part A – Coding Platform
 
  Files:  
 - `task-4-email-etiquette/emails.txt`
--  
+
 - `task-4-email-etiquette/social-media-checklist.txt`  
 
 Task 5 – Cybercrime Awareness
