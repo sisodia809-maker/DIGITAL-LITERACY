@@ -54,6 +54,8 @@ Part A – Coding Platform
 
  Files:  
 - `task-3-platforms/hackerrank.png`
+  <img width="1920" height="1080" alt="Screenshot 2026-03-28 153907" src="https://github.com/user-attachments/assets/295c53a7-e1d7-4c01-8510-086bc6cfee43" />
+
 
 - `task-3-platforms/google-form.png
 <img width="1920" height="1080" alt="ss questions" src="https://github.com/user-attachments/assets/29213c3e-9aac-464a-a068-ae38d7fb64a6" />
