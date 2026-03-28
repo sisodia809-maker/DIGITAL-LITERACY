@@ -95,6 +95,7 @@ Project Report
 The detailed report of all tasks is included in the repository.
 
  File: `report/Project_Report.pdf'
+ https://github.com/sisodia809-maker/DIGITAL-LITERACY/blob/main/DIGITAL%20LITERACY%20PROJECT%20REPORT.docx
  Tools & Platforms Used
 - Canva  
 - GitHub  
