@@ -31,9 +31,15 @@ This project helped me understand how to use digital tools effectively, maintain
 - Outcome: Learned the importance of maintaining a professional digital identity.  
 
  Files:  
-- `task-2-portfolio/github.png`  
-- `task-2-portfolio/linkedin.png`  
-- `task-2-portfolio/kaggle.png`  
+- `task-2-portfolio/github.png`
+  <img width="1920" height="1080" alt="GITHUB PROFILE" src="https://github.com/user-attachments/assets/6d03b595-5476-4bed-b3f9-f1a8723d92ab" />
+  
+- `task-2-portfolio/linkedin.png`
+  <img width="1049" height="859" alt="LINKEDIN PROFILE" src="https://github.com/user-attachments/assets/1bfe43ca-7da9-45f8-974b-923da46c1855" />
+  
+- `task-2-portfolio/kaggle.png`
+  <img width="1440" height="454" alt="KAGGLE PROFILE" src="https://github.com/user-attachments/assets/9699c46f-7b64-486a-b664-ac316846f559" />
+  
 
  Task 3 – Coding & Collaboration Platforms
 Part A – Coding Platform
