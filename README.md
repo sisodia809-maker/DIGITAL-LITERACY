@@ -74,6 +74,7 @@ Part A – Coding Platform
  Files:  
 - `task-4-email-etiquette/emails.txt`
 https://github.com/sisodia809-maker/DIGITAL-LITERACY/blob/main/TASK%204%20-%20REQUEST%20FOR%20ASSIGNMENT%20DEADLINE%20EXTENSION
+https://github.com/sisodia809-maker/DIGITAL-LITERACY/blob/main/TASK4-SUMMER%20INTERNSHIP
 - `task-4-email-etiquette/social-media-checklist.txt`
   https://github.com/sisodia809-maker/DIGITAL-LITERACY/blob/main/TASK4-SOCIAL%20MEDIA%20CHECKLIST
 
