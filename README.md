@@ -75,7 +75,7 @@ Part A – Coding Platform
 - `task-4-email-etiquette/emails.txt`
 https://github.com/sisodia809-maker/DIGITAL-LITERACY/blob/main/TASK%204%20-%20REQUEST%20FOR%20ASSIGNMENT%20DEADLINE%20EXTENSION
 - `task-4-email-etiquette/social-media-checklist.txt`
-   
+  
 
 Task 5 – Cybercrime Awareness
 Case Study
