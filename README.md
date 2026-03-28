@@ -94,7 +94,7 @@ Case Study
 Project Report
 The detailed report of all tasks is included in the repository.
 
- File: `report/Project_Report.pdf`
+ File: `report/Project_Report.pdf'
  Tools & Platforms Used
 - Canva  
 - GitHub  
