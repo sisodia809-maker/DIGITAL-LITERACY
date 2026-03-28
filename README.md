@@ -72,7 +72,8 @@ Part A – Coding Platform
 - Created a Social Media Do’s and Don’ts checklist  
 
  Files:  
-- `task-4-email-etiquette/emails.txt`  
+- `task-4-email-etiquette/emails.txt`
+-  
 - `task-4-email-etiquette/social-media-checklist.txt`  
 
 Task 5 – Cybercrime Awareness
