@@ -50,12 +50,18 @@ Part A – Coding Platform
 - Created a Digital Literacy Awareness Quiz with 5 questions  
 - Collected responses using Google Sheets  
 
-🔗 Google Form Link: [Paste your link here]
+🔗 Google Form Link:https://docs.google.com/forms/d/e/1FAIpQLSfZHNyX6jIuX39Mq5XXx4mpAU_OU4ZZYPm5yZkTJIEX4BioeA/viewform?usp=header
 
  Files:  
-- `task-3-platforms/hackerrank.png`  
-- `task-3-platforms/google-form.png`  
-- `task-3-platforms/responses.png`  
+- `task-3-platforms/hackerrank.png`
+
+- `task-3-platforms/google-form.png
+<img width="1920" height="1080" alt="ss questions" src="https://github.com/user-attachments/assets/29213c3e-9aac-464a-a068-ae38d7fb64a6" />
+
+  `  
+- `task-3-platforms/responses.png`
+  <img width="373" height="799" alt="ss response" src="https://github.com/user-attachments/assets/a3161945-5fa0-4a94-acd3-915b3e9f3c94" />
+ 
 
  Task 4 – Email Etiquette & Social Media Checklist
 - Wrote two professional emails:
